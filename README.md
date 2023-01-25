@@ -3,11 +3,12 @@
 - 👀 My bases of interests are...
 - Behavior, Management and Automation
 - 🌱 I’m currently learning...
--  Time Management, Fundamentals of Development and Python
+- Fundamentals of Development and Python
 - 💞️ For now I'm able to collaborate on...
 -  Portuguese-English translation or vice-versa
 - 📫 YOU CAN reach me on ...
-- Linkedin Kristhyan Rodrigues
+- Linkedin Kristhyan Rodrigues - where I'm trying to share some conclusion about what have I learned.
+- Instagram @krisumido - I show a few moments of study, where I'm more use to comment my learning.
 - Email kristhyan.claro@outlook.com
 - OR HERE  GitHub @Krisumido
 
