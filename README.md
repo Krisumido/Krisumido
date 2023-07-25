@@ -1,24 +1,24 @@
  # What's up guys!
 
   My name Is Kristhyan, 
-  And I'm just starting to knowing GitHub
+  And I'm just starting to put mtyself on practice with GitHub
   
 ![1667696747608](https://user-images.githubusercontent.com/113149645/216918402-550bf6ef-2ab0-49b2-b6ff-eafbd128d40f.jpg)
 
 
   ##  My bases of interests are...
-- Behavior, Management and Automation
+- Behavior, Time Management Finances, Interpersonal Relationship and Automation.
 ##  I’m currently learning
- - Fundamentals of Development(GitHub at the moment) and Python(with purpose on Data Science).
- - In py, now on the module of: data analysis and treatment of data.
-    applying on the project that has personal data of my current job.
- 
- - On GitHub classes, updates on my repository and profile.
+ - Fundamentals of Python(with purpose on Data Science).
+ - In py, now on the module of: SQL.
+ - In more than a year on financial study
+   Now on deeper on Brazilian bonds
+ - And Just getting on Statistics
 
 
 ##  YOU CAN reach me on 
  - Linkedin Kristhyan Rodrigues - where I'm trying to share some conclusions and insights over what I'd learned and live.
- - Instagram @krisumido - where I show a few moments of study, and I'm more use to commenting my learning path.
+ - Instagram @Kristhyan.rod - where I show a few moments of study, and I'm more use to commenting my learning path.
  - Email kristhyan.rod@gmail.com
  
  - OR HERE  GitHub @Krisumido
