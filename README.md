@@ -19,7 +19,7 @@
 ##  YOU CAN reach me on 
  - Linkedin Kristhyan Rodrigues - where I'm trying to share some conclusions and insights over what I'd learned and live.
  - Instagram @krisumido - where I show a few moments of study, and I'm more use to commenting my learning path.
- - Email kristhyan.claro@outlook.com
+ - Email kristhyan.rod@gmail.com
  
  - OR HERE  GitHub @Krisumido
 
