@@ -3,7 +3,7 @@
   My name Is Kristhyan, 
   And I'm just starting to put mtyself on practice with GitHub
   
-![1667696747608](https://user-images.githubusercontent.com/113149645/216918402-550bf6ef-2ab0-49b2-b6ff-eafbd128d40f.jpg)
+
 
 
   ##  My bases of interests are...
